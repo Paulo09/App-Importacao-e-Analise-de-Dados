@@ -25,7 +25,7 @@ CREATE DATABASE analises_db
        LC_CTYPE = 'Portuguese_Brazil.1252'
        CONNECTION LIMIT = -1;
 
-# Cirar Tabela : 
+# Criar Tabela : 
 
 -- Table: resultados_analises
 
